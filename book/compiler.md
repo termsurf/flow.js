@@ -1,6 +1,6 @@
 # Checking Definition Compiler
 
-A few steps:
+A few steps for usage:
 
 1. Write a TypeScript DSL to define the definitions concisely and
    without repetition.
@@ -10,11 +10,18 @@ A few steps:
    lookups.
 4. Use final data structure for checking against rules.
 
+The trie will get saved to JSON, possibly over multiple files, which
+will then be loaded into memory.
+
 ## Ideas
 
 - Word frequency stored for base words using a hash table. Then when you
   use a trie to find all matches, you can find their frequencies to sort
   them.
+
+1. Convert hunspell en_US.aff to book code.
+2. Generate Trie from book code. Generate pronunciations to put into it.
+3. Optimize Trie with keys to remove duplication.
 
 ## Resources
 

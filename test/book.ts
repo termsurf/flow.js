@@ -1,4 +1,4 @@
-import Book, { flow, host, list, form, text } from './code/book'
+import Book, { flow, host, list, form, text } from '../code/book'
 
 const book = new Book()
 

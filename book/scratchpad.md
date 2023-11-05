@@ -410,6 +410,22 @@ yogin + cara = yogimsara
     a
       r
         a
+  b
+    h
+      a
+        v
+          $ [[6], [7], [8]]
+  r
+    e
+      $ [[0]]
+  u
+    n
+      $ [[0]]
+  *
+    t
+      i
+        o
+          n
 1
   o
     r
@@ -436,4 +452,18 @@ yogin + cara = yogimsara
   m
     s
       $ [[0, c, a]]
+6
+  a
+    m
+      i
+7
+  a
+    v
+      a
+        s
+8
+  e
 ```
+
+- A `fuse` is a word or word fixture. It can change shape when fused.
+- leg-\*-obb for the circumfix

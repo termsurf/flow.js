@@ -58,7 +58,7 @@ load: [
     form: 'pattern',
     text: '.',
   } },
-  { host: 'base', text: 'n' },
+  { host: 'base', name: 'n', text: 'n' },
   { name: 'head', host: 'head', form: 'or', test: [
     { text: 'c' },
     { text: 'ch' },
@@ -68,7 +68,7 @@ load: [
 ],
 save: [
   { name: 'base' },
-  { text: 'ṁs' },
+  { text: 'ṁs', host: 'n' },
   { name: 'head' }
 ]
 ```
@@ -90,7 +90,7 @@ load: [
 ],
 save: [
   { name: 'base' },
-  { text: 'ṇ' }
+  { text: 'ṇ', host: 'n' }
 ]
 ```
 
