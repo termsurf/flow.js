@@ -68,13 +68,6 @@ for.
 - http://grammar.ucsd.edu/courses/lign120/02-intro_rev.pdf
 - [MAG-Tagalog: A Rule-Based Tagalog Morphological Analyzer and Generator](https://www.researchgate.net/publication/322869468_MAG-Tagalog_A_Rule-Based_Tagalog_Morphological_Analyzer_and_Generator)
 
-### Infix Resources
-
-- [Infixation](https://julietteblevins.ws.gc.cuny.edu/files/2016/10/Blevins2012_Infixationrev1.pdf)
-  - TODO: copy infixes from here.
-- [Infixes: right in the middle\*](http://www.skase.sk/Volumes/JTL07/2.pdf)
-- [Infixes really are (underlyingly) prefixes/suffixes](https://muse.jhu.edu/article/873747/pdf)
-
 ### Allomorphy Resources
 
 - https://en.wikipedia.org/wiki/Allomorph

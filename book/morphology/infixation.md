@@ -37,3 +37,12 @@ swrgrrk'ws = the wind gusts repeatedly
 - [THE INFIXES la, li, lo AND al IN PHILIPPINE LANGUAGES](https://digital.soas.ac.uk/content/AA/00/00/06/88/00001/AA00000688_00001.pdf)
 - [Infixer: A Method for Segmenting Non-Concatenative Morphology in Tagalog](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2344&context=gc_etds)
 - https://en.wiktionary.org/wiki/Category:Swahili_infixes
+- [THE INTERACTION BETWEEN INFIXATION AND REDUPLICATION IN CHAMORRO\*](https://web.stanford.edu/~bharizan/pdfs/Harizanov_2017_Chamorro.pdf)
+- [Explaining Kashaya Infixation](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=FE36ABCFACEDB791B7161FCBDE232C1D?doi=10.1.1.23.5361&rep=rep1&type=pdf)
+- [Asymmetric Infixation](https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/5448/0)
+- [INFIXATION AS MORPHEME ABSORPTION](https://rucore.libraries.rutgers.edu/rutgers-lib/54238/PDF/1/play/)
+  (GOOD)
+- [On Iterative Infixation](https://home.uchicago.edu/~aclyu/papers/Yu_WCCFL26.pdf)
+- [Infixation](https://julietteblevins.ws.gc.cuny.edu/files/2016/10/Blevins2012_Infixationrev1.pdf)
+- [Infixes: right in the middle\*](http://www.skase.sk/Volumes/JTL07/2.pdf)
+- [Infixes really are (underlyingly) prefixes/suffixes](https://muse.jhu.edu/article/873747/pdf)
