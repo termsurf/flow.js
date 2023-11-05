@@ -24,6 +24,8 @@ swrrk'ws = the wind gusts
 swrgrrk'ws = the wind gusts repeatedly
 ```
 
+## Malay
+
 ## Resources
 
 - [Infixation in the Americas: A cross-linguistic survey](https://www.journals.uchicago.edu/doi/abs/10.1086/718267?journalCode=ijal)
@@ -34,3 +36,4 @@ swrgrrk'ws = the wind gusts repeatedly
 - [A natural history of infixation](https://web.archive.org/web/20160603222845id_/http://www.arthaey.com/conlang/papers/Natural%20History%20of%20Infixation.pdf)
 - [THE INFIXES la, li, lo AND al IN PHILIPPINE LANGUAGES](https://digital.soas.ac.uk/content/AA/00/00/06/88/00001/AA00000688_00001.pdf)
 - [Infixer: A Method for Segmenting Non-Concatenative Morphology in Tagalog](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2344&context=gc_etds)
+- https://en.wiktionary.org/wiki/Category:Swahili_infixes
