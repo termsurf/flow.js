@@ -63,6 +63,12 @@ for.
 
 ## Resources
 
+- [Circumfixation](morphology/circumfixation.md)
+- [Infixation](morphology/infixation.md)
+- [Compounding](morphology/compounding.md)
+- [Reduplication](morphology/reduplication.md)
+- [Suffixation](morphology/suffixation.md)
+- [Non-Concatenative Morphology](morphology/non-concatenative.md)
 - [A typological comparison of infixes and circumfixes](https://pasithee.library.upatras.gr/mmm/article/view/4408)
 - http://www.ai.mit.edu/projects/dm/bp/nonconcat.pdf
 - http://grammar.ucsd.edu/courses/lign120/02-intro_rev.pdf
