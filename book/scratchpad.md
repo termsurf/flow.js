@@ -122,3 +122,197 @@ So we set all the `node.flow` to the native flow value, and later we
 iterate through each, build a list of possible strings, and sort and
 take the top 1000 or so. And then we set `match` to that final result
 set.
+
+```
+yogin + cara = yogimsara
+
+yogin = normal word
+yogim = start of morph
+```
+
+```ts
+type TrieNode = {
+  start?: TrieNode
+  skip?: TrieNode
+}
+```
+
+```
+yogin
+if: ms
+trigger: look for words starting in c,ch
+
+y
+  o
+    g
+      i
+        n
+        m
+          s: seek: c|ch
+             jump: c|ch
+
+tener
+tengo (drop ener, add eqgo)
+tiene (drop ener, add iene)
+tenemos
+
+ser
+soy (drop er, add oy) = rule
+eres (drop ser, add eres) = rule
+es (drop ser, add es) = rule
+somos
+son
+
+foot
+feet (drop oo, add ee)
+
+mouse
+mice (drop ouse, add ice)
+
+comer
+como
+comes
+come
+comemos
+comen
+
+c
+  a
+    r
+      a
+
+legdomobb
+
+l
+  e
+    g
+      *
+        o
+          b
+            b
+
+d
+  o
+    m
+
+y
+  o
+    g
+      i
+        ? call: moveToHeadTree, slot: 1
+
+headTree:
+  m
+    s
+      ? call: moveInTree (navigates it forward in the main trie by these amounts)
+        c
+          h
+
+fuse tree
+
+*ni* + kasi = kniasi
+
++
+  n
+    i
+      +
+
+k
+  a
+    s
+      i
+```
+
+Every tick, start at the base of the trie and check.
+
+```
+*ni* + davra = diavra
+
++
+  ? call: back
+    d save: false
+      i
+        @ # return back to the previous trie
+
+d
+  a
+    v
+      r
+        a
+
+Could have it be with the hidden value:
+
+d
+  a
+    v
+      r
+        a
+  +111
++111
+  i
+    @
+
+type TrieNode = {
+  link?: TrieNode
+}
+
+*ni* + suri = snuri
+
++
+  n
+    ? test: [eaou], move: 1
+      @
+
+s
+  u
+    r
+      i
+
+Same here, can become:
+
+s
+  u
+    r
+      i
+  + list: [123, 124, ...]
+
+# fragment-store
++123
+  n
+    @
+```
+
+If `?` execute command
+
+So we have three special trie nodes:
+
+- `*`: Wildcard. This is used to start back at the beginning of the
+  trie.
+- `?`: Command. This is to get fine-grained with how we are traversing
+  the trie, and execute a custom command.
+- `+`: Link.
+
+```
+recreated
+
+r
+  e
+    *
+c
+  r
+    e
+      a
+        t
+          + # link to *d,*ing,*s,etc.
+
+# reusable fragment
++
+  e
+    d
+    s
+  i
+    n
+      g
+  o
+    r
+```

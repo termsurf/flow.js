@@ -20,3 +20,4 @@ A few steps:
 
 - https://github.com/GitbookIO/hunspell-spellchecker/blob/master/lib/index.js
 - https://github.com/past/speller/blob/master/lib/speller.js
+- [A Theory of Internal Reduplication](https://core.ac.uk/reader/13601830)
