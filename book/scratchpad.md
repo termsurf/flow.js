@@ -186,7 +186,7 @@ legdomobb
 l
   e
     g
-      *
+      +
         o
           b
             b
@@ -199,14 +199,20 @@ y
   o
     g
       i
-        ? call: moveToHeadTree, slot: 1
+        n
+        $ 12921
 
-headTree:
+12921
   m
     s
       ? call: moveInTree (navigates it forward in the main trie by these amounts)
         c
           h
+
+12921
+  m
+    s
+      > [c, ch]
 
 fuse tree
 
@@ -221,26 +227,17 @@ k
   a
     s
       i
+  $ 101 # slot in array
+$101
+  n
+    i
+      @
 ```
 
 Every tick, start at the base of the trie and check.
 
 ```
 *ni* + davra = diavra
-
-+
-  ? call: back
-    d save: false
-      i
-        @ # return back to the previous trie
-
-d
-  a
-    v
-      r
-        a
-
-Could have it be with the hidden value:
 
 d
   a
@@ -255,20 +252,6 @@ d
 type TrieNode = {
   link?: TrieNode
 }
-
-*ni* + suri = snuri
-
-+
-  n
-    ? test: [eaou], move: 1
-      @
-
-s
-  u
-    r
-      i
-
-Same here, can become:
 
 s
   u
@@ -315,4 +298,88 @@ c
       g
   o
     r
+```
+
+So we have two tries, one that starts as a center node linking to
+pronunciation sounds, and another which is an array which has trees in
+each array slot.
+
+The tries are like this:
+
+```
+[baseWordTree, ...fragmentTrie]
+```
+
+Then we can jump to any "fragment" in the trie as an array index.
+
+```
+yogin + cara = yogimsara
+
+0
+  y
+    o
+      g
+        i
+          n
+          $ >> [{ i: 1, path: ['m'] }]
+  c
+    a
+      r
+        a
+    h
+      a
+        r
+          a
+  d
+    a
+      v
+        r
+          a
+    $ >> [[2, i]]
+1
+  m
+    s
+      # the "ara" in cara, and chara
+      $ >> [{ i: 0, path: ['c', 'a'] }, { i: 0, path: ['c', 'h', 'a'] }]
+2
+  i
+    @
+```
+
+Path can be all integers, where letter components are integers.
+
+Perhaps could be like this instead:
+
+```
+yogin + cara = yogimsara
+
+0
+  y
+    o
+      g
+        i
+          n
+          $ >> [{ i: 1, path: ['m'] }]
+  c
+    a
+      r
+        a
+    h
+      a
+        r
+          a
+  d
+    $ >> [[2, i]]
+      need: false
+      a
+        v
+          r
+            a
+1
+  m
+    s
+      # the "ara" in cara, and chara
+      $ >> [{ i: 0, path: ['c', 'a'] }, { i: 0, path: ['c', 'h', 'a'] }]
+2
+  i
 ```
