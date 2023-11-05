@@ -1,5 +1,82 @@
 # Infixation
 
+## English
+
+| word    |
+| :------ |
+| house   |
+| hizouse |
+| ahead   |
+| ahizead |
+
+## Greek
+
+| base    | word      | meaning       |
+| :------ | :-------- | :------------ |
+| e-dak-  | daŋk-an-  | bite          |
+| e-lab-  | lamb-an-  | take          |
+| e-latʰ- | lantʰ-an- | escape notice |
+| e-lip-  | limp-an-  | leave         |
+| e-patʰ- | pantʰ-an- | suffer        |
+| e-putʰ- | puntʰ-an- | inquire       |
+| e-pʰug- | pʰuŋg-an- | flee          |
+| e-tʰig- | tʰiŋg-an- | touch         |
+| e-matʰ- | mantʰ-an- | learn         |
+
+## Atayal
+
+| base   | word   | meaning                    |
+| :----- | :----- | :------------------------- |
+| qul    | qmul   | snatch                     |
+| kat    | kmat   | bite                       |
+| kuu    | kmuu   | too tired, not in the mood |
+| hŋuʔ   | hmŋuʔ  | soak                       |
+| skziap | kmziap | catch                      |
+| sbil   | smbil  | leave behind               |
+
+## ChiBemba
+
+| base      |                   | word        |                      |
+| :-------- | :---------------- | :---------- | :------------------- |
+| -leep-el- | be long for/at    | -leef-es-i̧- | lengthen for/at      |
+| -up-il-   | marry for/at      | -uf-is-i̧-   | marry off for/at     |
+| -lub-il-  | be lost for/at    | -luf-is-i̧-  | lose for/at          |
+| -lob-el-  | be extinct for/at | -lof-es-i̧-  | exterminate for/at   |
+| -fiit-il- | be dark for/at    | -fiis-is-i̧- | darken for/at        |
+| -ónd-el-  | be slim for/at    | -óns-es-i̧-  | make slim for/at     |
+| -lil-il-  | cry for/’at       | -lis-is-i̧-  | ‘make cry for/’at    |
+| -buuk-il- | get up for/at     | -buus-is-i̧- | get [s.o.] up for/at |
+| -lúng-il- | hunt for/at       | -lúns-is-i̧- | make hunt for/at     |
+
+## Dakota
+
+| base      |         | word        |               |
+| :-------- | :------ | :---------- | :------------ |
+| ća.pa     | stab    | ća.wa.pca   | I stab        |
+| ʔi.kto.mi | Iktomi  | ʔi.ma.ktomi | I am Iktomi   |
+| ma.nu̜     | steal   | ma.wa.nu̜    | I steal       |
+| na.pca    | swallow | na.wa.pca   | I swallow it  |
+| la.kᶜota  | Lakota  | la.ma.kᶜota | I am a Lakota |
+| na.wizi   | jealous | na.wa.wizi  | I am jealous  |
+
+## Leti
+
+| base    |                           | word       |                            |
+| :------ | :------------------------ | :--------- | :------------------------- |
+| kaati   | to carve                  | k-ni-aati  | carving                    |
+| kasi    | to dig                    | k-ni-asi   | act of digging             |
+| kakri   | to cry                    | k-ni-akri  | act of crying              |
+| pe$pna  | to fence                  | p-ni-e$pna | act of fencing, fence      |
+| polu    | to call                   | p-ni-olu   | act of calling, call       |
+| n-sai   | to climb, rise, III (3SG) | s-ni-ai    | act of climbing, rising    |
+| n-teti  | to chop, III (3SG)        | t-ni-eti   | chop, chopping             |
+| n-vaka  | to ask (for), III (3SG)   | v-ni-aka   | act of asking, request     |
+| kili    | to look                   | k-n-ili    | act of looking             |
+| kini    | to kiss                   | k-n-ini    | act of kissing, kiss       |
+| surta   | to write                  | s-n-urta   | act of writing, memory     |
+| tutu    | to support                | t-n-utu    | act of supporting, support |
+| n-virna | to peel, II (3SG)         | v-n-irna   | act of peeling             |
+
 ## Yarok
 
 ```

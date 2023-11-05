@@ -97,3 +97,8 @@ save: [
 ## Resources
 
 - https://www.sanskrit-trikashaivism.com/en/learning-sanskrit-combination-7-1/434
+- https://www.sanskrit-trikashaivism.com/en/learning-sanskrit-combination-rules-of-sandhi-1/435#FurinfoSandhirules
+
+```
+tat + lobhaḥ = tallobhaḥ
+```

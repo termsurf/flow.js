@@ -467,3 +467,99 @@ yogin + cara = yogimsara
 
 - A `fuse` is a word or word fixture. It can change shape when fused.
 - leg-\*-obb for the circumfix
+
+```
+r
+  e
+    b
+      u
+        i
+          l
+            d
+              e
+                r
+1
+  u
+    n
+      *: word
+
+2
+  h
+    o
+      o
+        k
+          !test: allow-prefix 1
+
+a-na-ki-penda
+
+0
+  k
+    e
+      n
+        d
+          a
+  p
+    e
+      n
+        d
+          a
+1
+  [word, prefix]
+4:prefix
+  a
+    list: [prefix_tense, word]
+  n
+    a
+      list: [prefix_agent, word]
+5:word
+  p
+    e
+      n
+        d
+          a
+  y
+    o
+      g
+        i
+          [n, ms_link]
+  c
+    a
+      r
+        a
+  t
+    a
+      [t, lobhah_link, another_link]
+lobhah_link
+  l
+    [$.l]
+another_link
+  l
+    t
+      [$.l.t]
+ms_link
+  m
+    s
+      [$.c, $.ch]
+2
+  n
+    a
+      list: [prefix_agent, word]
+3
+  a
+    b
+      l
+        e
+          [plural]
+
+
+Because the prefix/suffix number is relatively small, maybe 10,000 max, we can have a hash map to the node link for the suffix when wiring things up.
+
+{
+  $: 1, // words
+  na: 2,
+  ki: 3,
+  ...
+}
+
+tat + lobhaḥ = tallobhaḥ
+```
