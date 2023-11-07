@@ -26,10 +26,7 @@ either trie.
 {
   load: [
     {
-      name: 'base', form: 'walker', test: {
-        form: 'pattern',
-        text: '.'
-      }
+      name: 'base', base: true
     },
     {
       name: 'last-vowel', form: 'or', test: {

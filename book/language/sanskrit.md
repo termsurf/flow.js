@@ -54,12 +54,9 @@ bind: [
   { name: 'head' }
 ],
 load: [
-  { name: 'base', host: 'base', form: 'sequence', test: {
-    form: 'pattern',
-    text: '.',
-  } },
+  { host: 'base', name: 'base', base: true },
   { host: 'base', name: 'n', text: 'n' },
-  { name: 'head', host: 'head', form: 'or', test: [
+  { host: 'head', name: 'head', form: 'or', test: [
     { text: 'c' },
     { text: 'ch' },
     { text: 'ṭ' },
@@ -94,11 +91,15 @@ save: [
 ]
 ```
 
+```
+tat + lobhaḥ = tallobhaḥ
+dah + ta = dagdha
+muh + ta = mūḍha
+```
+
 ## Resources
 
 - https://www.sanskrit-trikashaivism.com/en/learning-sanskrit-combination-7-1/434
 - https://www.sanskrit-trikashaivism.com/en/learning-sanskrit-combination-rules-of-sandhi-1/435#FurinfoSandhirules
-
-```
-tat + lobhaḥ = tallobhaḥ
-```
+- https://www.learnsanskrit.org/start/nouns/sandhi/
+- https://www.learnsanskrit.org/references/sandhi/internal/
