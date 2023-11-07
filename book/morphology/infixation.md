@@ -158,6 +158,14 @@ preceding vowel.
 | u.ɲɟa   | u-ɲɟa-ɲɟa  | sleep, lie down |
 | u.ŋya   | u-ŋi-ŋya   | eat             |
 
+## Tagalog
+
+| base    | word      |           |             |
+| :------ | :-------- | :-------- | :---------- |
+| gradwet | grumadwet | gumradwet | to graduate |
+| plantsa | plumantsa | pumlantsa | iron        |
+| preno   | prumeno   | pumreno   | to brake    |
+
 ## Yarok
 
 ```
