@@ -44,7 +44,7 @@
 | -lob-el-  | be extinct for/at | -lof-es-i̧-  | exterminate for/at   |
 | -fiit-il- | be dark for/at    | -fiis-is-i̧- | darken for/at        |
 | -ónd-el-  | be slim for/at    | -óns-es-i̧-  | make slim for/at     |
-| -lil-il-  | cry for/’at       | -lis-is-i̧-  | ‘make cry for/’at    |
+| -lil-il-  | cry for/’at       | -lis-is-i̧-  | make cry for/’at     |
 | -buuk-il- | get up for/at     | -buus-is-i̧- | get [s.o.] up for/at |
 | -lúng-il- | hunt for/at       | -lúns-is-i̧- | make hunt for/at     |
 
@@ -137,6 +137,26 @@ preceding vowel.
 | teʔa    | teɬʔa    | elder     |
 | akanʔoʔ | akaɬnʔoʔ | woman     |
 | ɬipo    | ɬiɬpo    | possum    |
+
+## Archi
+
+| base | word   |             |
+| :--- | :----- | :---------- |
+| daχi | dabχdi | to churn    |
+| ak’a | abk’u  | to drive    |
+| aχa  | abχu   | to lie down |
+
+## Uradhi
+
+| base    | word       |                 |
+| :------ | :--------- | :-------------- |
+| wi.li   | wi-li-li   | run             |
+| a.ŋa    | a-ŋa-ŋa    | dig             |
+| i.pi.ɲi | i-pi-piɲi  | swim            |
+| wampa   | wa-mpa-mpa | float           |
+| i.kya   | i-ki-kya   | speak           |
+| u.ɲɟa   | u-ɲɟa-ɲɟa  | sleep, lie down |
+| u.ŋya   | u-ŋi-ŋya   | eat             |
 
 ## Yarok
 
