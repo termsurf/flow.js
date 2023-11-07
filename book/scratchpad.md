@@ -529,6 +529,11 @@ a-na-ki-penda
   t
     a
       [t, lobhah_link, another_link]
+      [t, these_links]
+these_links
+  l
+    l: [$.l]
+    t: [$.l.t]
 lobhah_link
   l
     [$.l]
