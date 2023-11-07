@@ -77,6 +77,67 @@
 | tutu    | to support                | t-n-utu    | act of supporting, support |
 | n-virna | to peel, II (3SG)         | v-n-irna   | act of peeling             |
 
+## Pingding
+
+| base     | word      |                  |
+| :------- | :-------- | :--------------- |
+| mən tuɤŋ | mən tɭuɤŋ | hole on the door |
+| lɒɔ tʰɤu | lɒɔ tʰɭɤu | old man          |
+| ɕiɒɔ pɤŋ | ɕiɒɔ pɭɤŋ | small notebook   |
+| xɤu mɤŋ  | xɤu mɭɤŋ  | back door        |
+| ɕiɒɔ kuɤ | ɕiɒɔ kɭuɤ | small wok        |
+| xuAN xuA | xuɑŋ xɭuɑ | yellow flower    |
+| ŋɤ       | ŋɭɤ       | moth             |
+
+## Hua
+
+| base   | word     |             |
+| :----- | :------- | :---------- |
+| zgavo  | zgaʔavo  | not embrace |
+| harupo | haruʔapo | not slip    |
+
+## Hausa
+
+A language game in Hausa involves inserting -bV- after the vowel of each
+word-internal syllable. The vowel of the infix is a copy of the
+preceding vowel.
+
+| base    | word         |                |
+| :------ | :----------- | :------------- |
+| gidā    | gibìda       | house          |
+| maskī   | mabàski      | oily           |
+| Màimunà | Maibàimubùna | Maimuna (name) |
+| hatsī   | habàtsi      | grain          |
+
+## Ulwa
+
+| base        | word            |
+| :---------- | :-------------- |
+| sú˘lu       | sú˘-ma-lu       |
+| áytak       | áy-mana-tak     |
+| alá˘kum8    | alá˘-ka-kum8    |
+| waráw8wa    | waráw8-kana-wa  |
+| ká˘sirá˘mah | ká˘-ki-sirá˘mah |
+
+## Tigrinya
+
+| base    | word          |          |
+| :------ | :------------ | :------- |
+| s’ähifu | s’ägähigifugu | he wrote |
+| bïc&’a  | bïgïc&’aga    | yellow   |
+| /ïntay  | /ïgïntagay    | what     |
+| k’arma  | k’agarmaga    | gnat     |
+
+## Oaxaca Chontal
+
+| base    | word     |           |
+| :------ | :------- | :-------- |
+| cece    | ceɬce    | squirrel  |
+| tuwa    | tuɬwa    | foreigner |
+| teʔa    | teɬʔa    | elder     |
+| akanʔoʔ | akaɬnʔoʔ | woman     |
+| ɬipo    | ɬiɬpo    | possum    |
+
 ## Yarok
 
 ```
