@@ -27,7 +27,7 @@ type TrieNode = {
   child: Array<TrieNode>
 }
 
-// actual details of word is defined in textsurf/form
+// actual details of word is defined in termsurf/form
 type Word = {
   slug: string
   kind: 'prefix' | 'suffix' | 'base' | 'compound'
